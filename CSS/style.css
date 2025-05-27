@@ -11,6 +11,10 @@ html {
   scroll-behavior: smooth;
 }
 
+.overflow-x-hidden {
+    overflow-x: hidden;
+}
+
 :root{
     --c-dark:#212529;
     --c-brand:#4e57d4;
