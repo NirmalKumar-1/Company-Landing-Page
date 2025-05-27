@@ -1,0 +1,163 @@
+@media (min-width:993px){
+    .section-padding {
+        padding-top: 140px;
+        padding-bottom: 140px;
+    }    
+}
+
+@media (max-width:993px){
+    .section-padding {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+
+    #hero {
+        display: none;
+    }
+
+    #hero h1 {
+    font-size: 37px;
+    }
+
+    .serviceToRemove {
+        display: none;
+    }
+
+    .md-test-remove {
+        display: none;
+    }   
+}
+
+
+@media (max-width:767.5px){
+
+    .section-padding {
+        padding-top: 50px;
+        padding-bottom: 20px;
+    }
+
+    .toremove {
+        display: none;
+    }
+    
+    .img-col {
+        margin: 0 !important;
+        margin-top: 10px !important;
+    }
+
+    #hero h1 {
+     font-size: 30px;
+    }
+
+    #hero h5 {
+        font-size: 17px;
+    }
+
+    #hero {
+        padding: 0 !important;
+        margin: 0 !important;
+    }
+
+    .teamperson {
+        display: none;
+    }
+
+    .blog-margin {
+        padding-bottom: 40px;
+    }
+
+    #counter {
+        padding-top: 0;
+    }
+}
+
+@media (min-width:767.5px){
+    .teamHead {
+        display: none;
+    }
+}
+
+@media (max-width: 575.5px){
+    .sm-test-remove {
+        display: none;
+    }
+
+    .sm-serviceToRemove {
+        display: none;
+    }
+
+    .service-md-hide {
+        display: none !important;
+    }
+
+    .aboutpara {
+        font-size: 14px;
+    }
+
+    .leaderImg {
+        padding: 0 !important;
+        margin: 0 !important;
+    }
+
+    .footer-bottom {
+        font-size: 12px;
+        padding-top: 20px;
+        padding-bottom: 0;
+    }
+
+    .footerEmoji {
+        font-size: 14px;
+    }
+
+    #counter p {
+        padding-bottom: 50px;
+    }
+
+    .counterH {
+        margin-top: -10px !important;
+    }
+
+    #counter .display-2 {
+        font-size: 40px;
+    }
+}
+
+@media (max-width: 358px){
+
+    .getStarted {
+        display: none;
+    } 
+
+    #hero h1 {
+     font-size: 25px;
+    }
+
+    #hero h5 {
+        font-size: 13px;
+    }
+
+    .invisible-formItem {
+        display: none;
+    }
+
+    .aboutparaH {
+        font-size: 15px;
+    }
+
+    .aboutpara {
+        font-size: 12px;
+    } 
+
+    .checkbox-font {
+        font-size: 13px;
+    }
+
+    .checkbox-check {
+        height: 13px;
+        width: 13px;
+    }
+
+    footer {
+        padding-top: 50px !important;
+    }
+}
